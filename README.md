@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @enalk
+- 👀 I’m interested in rust, golang and svelte
+- 🌱 I’m currently learning rust and svelte
